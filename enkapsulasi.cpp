@@ -15,5 +15,5 @@ public:
 };
 
 int main() {
-    remote
+    remoteLampu lampuRumah;
 }
