@@ -10,5 +10,7 @@ public:
         y = b;
     }
 
-    void
+    void dispay(){
+        
+    }
 }
