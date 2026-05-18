@@ -11,6 +11,6 @@ public:
     }
 
     void dispay(){
-        
+        cout << "x =" << x << endl;
     }
 }
